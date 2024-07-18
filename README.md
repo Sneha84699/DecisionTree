@@ -1,2 +1,3 @@
 # DTR
-https://dtrweather.streamlit.app/
+https://snehadt.streamlit.app/
+
